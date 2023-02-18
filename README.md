@@ -1,3 +1,3 @@
-# bbm101assignment2\n
-A console painter - car game implementation by using python\n
+# bbm101assignment2
+A console painter - car game implementation by using python
 The explanation of the project is in pdf file
